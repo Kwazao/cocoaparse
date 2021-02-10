@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562919877407.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2866952818",
+    "id" : "648F72CB",
+    "lastKnownWriteTime" : 1563347712,
+    "last_content_update" : 1563347712672,
+    "path" : "//Zisilon03/N03iam1/INTERNES/_KEVIN/RProjects/cocoapp/cocoapp.Rmd",
+    "project_path" : "cocoapp.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "15,52",
+        "scrollLine" : "12",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

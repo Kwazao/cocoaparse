@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563293163745.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5B81A0BE",
+    "lastKnownWriteTime" : 7813877730276303717,
+    "last_content_update" : 1563293163745,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "5156c246bb544dfbb947cc1ee5b5526e",
+        "name" : "splitcocoa",
+        "title" : "splitcocoa"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

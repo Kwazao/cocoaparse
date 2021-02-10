@@ -1,0 +1,1 @@
+"0","cim10<-read.table('LIBCIM10MULTI_mod.TXT', sep=""|"", dec='!', stringsAsFactors = FALSE, encoding=""Latin-1"", col.names = c(""code"",""severite"",""auto"",""severite2"",""lib"",""nom""), quote="""")"

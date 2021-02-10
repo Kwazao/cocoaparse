@@ -1,0 +1,44 @@
+[0m'\\zisilon03\N03iam1\INTERNES\_KEVIN\RProjects\cocoapp'[0K[?25l
+CMD.EXE a été démarré avec le chemin d’accès comme répertoire en[0K
+cours. Les chemins d’accès UNC ne sont pas prise en charge. Utilisation[0K
+du répertoire Windows par défaut.[0K
+[0K[?25h]0;Administrateur :  Microsoft Windows [version 6.1.7601][0K[?25l
+Copyright (c) 2009 Microsoft Corporation. Tous droits réservés.[0K
+[0K
+C:\Windows>[0K[?25hl[0Ki[0Kb[0Kr[0Ka[0Kr[0Ky[0K([0Kt[0Ka[0K[?25lC:\Windows>library(t[0K[?25h[?25lC:\Windows>library([0K[?25h"[0K"[0Kt[0Ka[0Kb[0Kl[0Ku[0Kz[0Ki[0Ke[0Kr[0K[?25lC:\Windows>library(""tabluzie[0K[?25h[?25lC:\Windows>library(""tabluzi[0K[?25h[?25lC:\Windows>library(""tabluz[0K[?25h[?25lC:\Windows>library(""tablu[0K[?25h[?25lC:\Windows>library(""tabl[0K[?25h[?25lC:\Windows>library(""tab[0K[?25h[?25lC:\Windows>library(""ta[0K[?25hu[0Kl[0Ki[0Kz[0Ke[0Kr[0K"[0K[?25lC:\Windows>library(""taulizer[0K[?25h[?25lC:\Windows>library(""taulize[0K[?25h[?25lC:\Windows>library(""tauliz[0K[?25h[?25lC:\Windows>library(""tauli[0K[?25h[?25lC:\Windows>library(""taul[0K[?25h[?25lC:\Windows>library(""tau[0K[?25h[?25lC:\Windows>library(""ta[0K[?25h[?25lC:\Windows>library(""t[0K[?25h[?25lC:\Windows>library(""[0K[?25h[?25lC:\Windows>library("[0K[?25ht[0Ka[0Kb[0Kl[0Ku[0K[?25lC:\Windows>library("tabl[0K[?25h[?25lC:\Windows>library("tab[0K[?25hu[0Kl[0Ki[0Kz[0Ke[0Kr[0K"[0K)[0K[?25l
+[0K[?25h'library' n’est pas reconnu en tant que commande interne[0K[?25l
+ou externe, un programme exécutable ou un fichier de commandes.[0K
+[0K
+C:\Windows>[0K[?25hr[0K]0;Administrateur :   - r[?25l
+[0K[?25h]0;Rterm (64-bit)[?25l
+R version 3.5.3 Patched (2019-03-11 r76221) -- "Great Truth"[0K
+Copyright (C) 2019 The R Foundation for Statistical Computing[0K
+Platform: x86_64-w64-mingw32/x64 (64-bit)[0K
+[0K
+R est un logiciel libre livré sans AUCUNE GARANTIE.[0K
+Vous pouvez le redistribuer sous certaines conditions.[0K
+Tapez 'license()' ou 'licence()' pour plus de détails.[0K
+[0K
+R est un projet collaboratif avec de nombreux contributeurs.[0K
+Tapez 'contributors()' pour plus d'information et[0K
+'citation()' pour la façon de le citer dans les publications.[0K
+[0K
+Tapez 'demo()' pour des démonstrations, 'he[0K[?25hlp()' pour l'aide[0K[?25l
+en ligne ou 'help.start()' pour obtenir l'aide au format HTML.[0K
+Tapez 'q()' pour quitter R.[0K
+[0K
+[0K[?25h>[0K[3G[?25l> t[0K[?25ha[0Kb[0Ku[0Kl[0Ki[0Kz[0Ke[0Kr[0K([0K"[0K[?25l> tabulizer([0K[?25h[?25l> tabulizer[0K[?25h[?25l> tabulize[0K[?25h[?25l> tabuliz[0K[?25h[?25l> tabuli[0K[?25h[?25l> tabul[0K[?25h[?25l> tabu[0K[?25h[?25l> tab[0K[?25h[?25l> ta[0K[?25h[?25l> t[0K[?25h[?25l>[0K[3G[?25h[?25l> l[0K[?25hi[0Kb[0Kr[0Ka[0Kr[0Ky[0K([0K"[0Kt[0Ka[0Kb[0Kl[0Ku[0Ki[0Kz[0Ke[0Kr[0K[?25l> library("tabluize[0K[?25h[?25l> library("tabluiz[0K[?25h[?25l> library("tablui[0K[?25h[?25l> library("tablu[0K[?25h[?25l> library("tabl[0K[?25h[?25l> library("tab[0K[?25hu[0Kl[0Ki[0Kz[0Ke[0Kr[0K"[0K)[0K[?25l
+[0K[?25h>[0K[3G[?25l> f[0K[?25h<[0K-[0Ks[0Ku[0Ks[0K[?25l> f<-su[0K[?25h[?25l> f<-s[0K[?25hy[0Ks[0Kt[0Ke[0Kù[0K[?25l> f<-syste[0K[?25hm[0K.[0Kf[0Ki[0Kl[0Ke[0K([0KC:/Users/ouazzak/Documents/PMSI/cocoa.pdf[0K[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[44G[43G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[16G[17G[18G[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf[0K[19G[?25h[20G[21G[22G[23G[24G[25G[26G[27G[28G[29G[30G[31G[32G[33G[34G[35G[36G[38G[39G[40G[41G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf"[0K[?25h[60G[59G[58G[57G[56G[55G[54G[53G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf",[0K[?25h[63G[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", p[0K[?25ha[0Kc[0Kk[0Ka[0Kg[0Ke[0K=[0K"[0Kt[0Ka[0Kb[0Kl[0K[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tab[0K[?25hu[0Kl[0Ki[0Kz[0Ke[0K[?25l> $zzak/Documents/PMSI/cocoa.pdf", package="tabulizer[0K[?25h"[0K)[0K[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tabuliz$[0K
+>[0K[3G[?25h[?25l> e[0K[?25hx[0Kt[0Kr[0Ka[0Kc[0Kt[0K_[0Ka[0Kr[0Ke[0Ka[0Ks[0K([0Kf[0K,[0K1[0K)[0K[?25l
+[0K[?25hError in normalizePath(path.expand(path), winslash, mustWork) :[0K[?25l
+  path[1]="": La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte[0K
+>[0K[3G[?25h[?25l> extract_areas(f,1)[0K[?25h[19G[?25l> $zzak/Documents/PMSI/cocoa.pdf", package="tabulizer")[0K[?25h[55G[54G[53G[52G[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tabuliz$[0K[78G[?25h[77G[76G[75G[74G[73G[72G[71G[12G[?25l> library("tabulizer")[0K[?25h[?25l> $zzak/Documents/PMSI/cocoa.pdf", package="tabulizer")[0K[?25h[55G[54G[53G[?25l> f<-system.file("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package[0K[?25h[?25l="tabuliz$[0K[78G[?25h[76G[75G[74G[73G[72G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[41G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[16G[17G[18G[?25l> f<-system.file(e"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", packag="tabuliz$[0K[70G[?25h[?25l> f<-system.file(e"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tabuli$[0K[19G[?25h[?25l> f<-system.file(ex"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tabul$[0K[20G[?25h[?25l> f<-system.file(exa":/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tabul$[0K[22G[?25h[?25l> f<-system.file(exa"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tabu$[0K[21G[?25h[?25l> f<-system.file(exam"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tab$[0K[22G[?25h[?25l> f<-system.file(examp"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="ta$[0K[23G[?25h[?25l> f<-system.file(exampl"C:/Users/ouazzak/Docuents/PMSI/cocoa.pdf", package="ta$[0K[46G[?25h[?25l> f<-system.file(exampl"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="t$[0K[24G[?25h[?25l> f<-system.file(example"C:/Usrs/ouazzak/Documents/PMSI/cocoa.pdf", package="t$[0K[31G[?25h[?25l> f<-system.file(example"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="$[0K[25G[?25h[?25l> f<-system.file(examples"C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package=$[0K[26G[?25h[?25l> f<-system.file(examples""C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package$[0K[51G[?25h[27G[26G[25G[23G[22G[20G[19G[18G[17G[18G[?25l> f<-system.file("examples""C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", packag$[0K[19G[?25h[20G[21G[22G[23G[24G[25G[26G[27G[28G[?25l> f<-system.file("examples","C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", packa$[0K[29G[?25h[?25l
+>[0K[3G[?25h[?25l> $:/Users/ouazzak/Documents/PMSI/cocoa.pdf", package="tabulizer")[0K[?25h[?25l> extract_areas(f,1)[0K[22G[?25h[21G[?25l
+Error in normalizePath(path.expand(path), winslash, mustWork) :[0K
+  path[1]="": La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte[0K
+>[0K[3G[?25h[6n[?25l
+[0K
+>[0K[3G[?25h[?25l> q[0K[?25hu[0Ki[0Kt[0K([0K)[0K[?25l
+Sauver une image de la session ? [y/n/c]:[0K[43G[?25h[?25lSauver une image de la session ? [y/n/c]: n[0K[?25h]0;Administrateur :   - r[?25l
+[0K[?25h]0;Administrateur :  [?25l
+C:\Windows>[0K[?25h

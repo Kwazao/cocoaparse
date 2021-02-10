@@ -1,0 +1,63 @@
+---
+title: "appli cocoapp"
+output: html_notebook
+---
+
+#Libraries
+```{r}
+library(pdftools)
+library(tabulizer)
+library(dplyr)
+library(stringr)
+```
+
+#import cocoa
+```{r}
+cocoa<-pdf_text("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf")
+```
+
+#a faire plus tard pour le tableaux de cancero
+```{r}
+# cocoa_tab<-extract_tables("C:/Users/ouazzak/Documents/PMSI/cocoa.pdf", encoding="UTF-8")
+```
+
+```{r}
+cocoadf<-data.frame(page=numeric(),txt=character())
+for (i in 1:length(cocoa)){
+  add<-data.frame(page=i,txt=cocoa[i])
+  cocoadf<-rbind(cocoadf,add)
+  
+}
+``` 
+
+#import cim10
+```{r}
+cim10<-read.table('LIBCIM10MULTI_mod.TXT', sep="|", dec='!', stringsAsFactors = FALSE, encoding="Latin-1", col.names = c("code","severite","auto","severite2","lib","nom"), quote="")
+
+```
+
+#stringr traitement
+```{r}
+test<-as.character(cocoadf[25,2])
+pattern<-'(?<=.)(?=[A-Z]{1}[0-9]{2}(\\.|\\ )[0-9]*(\\ )+)'
+
+splittest<-strsplit(test,pattern,perl=TRUE)
+
+```
+
+
+#traitement full doc
+```{r}
+splitcocoa<-list()
+pattern<-'(?<=.)(?=[A-Z]{1}[0-9]{2}(\\.|\\ )[0-9]*((\\ ){2,}|(\\ †)))'
+for (i in 1:nrow(cocoadf)){
+  txt<-as.character(cocoadf[i,2])
+  
+  splitted_txt<-strsplit(txt,pattern,perl=TRUE)
+  
+  splitcocoa<-append(splitcocoa,splitted_txt)
+  
+}
+
+```
+
